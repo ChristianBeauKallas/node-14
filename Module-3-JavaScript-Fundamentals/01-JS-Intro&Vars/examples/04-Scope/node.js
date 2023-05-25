@@ -1,0 +1,2 @@
+Script started on Wed May 24 09:21:37 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                                           [0m[27m[24m[Jbeaukallas@Beaus-MacBook-Air 04-Scope % [K[?2004h

@@ -1,6 +1,6 @@
 //Ex1
 // We use a for-loop to execute code more than once
-for (var i = 0; i < 5; i++) {
+for (var i = 0; i < 5; i++) { 
     // This is the block of code that will run each time
     console.log("This is the current value of i: " + i + ".");
 }
@@ -10,7 +10,7 @@ for (var i = 0; i < 5; i++) {
 //Ex2
 // For-loops are often used to iterate over arrays
 var zooAnimals = ["Bears", "Giraffes", "Penguins", "Meerkats"];
-
+for (let i)
 
 
 
