@@ -1,11 +1,11 @@
 // A variable declared in global scope is available to all functions
-// var hello = "Hello"; 
-// var num1 = 2;
-// var num2 = 3;
+// let hello = "Hello"; 
+// let num1 = 2;
+// let num2 = 3;
 
 // function sayHello() {
 //   console.log(hello);
-//   var sum = num1 + num2;
+//   let sum = num1 + num2;
 //   console.log(sum);
 //   return sum;
 // }
